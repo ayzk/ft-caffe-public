@@ -1,5 +1,8 @@
-# Intel® Distribution of Caffe*
+# Fault-tolerance Caffe base on Intel® Distribution of Caffe*
+Fault-tolerance code is in tools/ftcaffe.cpp
+
 This fork Caffe is dedicated to improving Caffe performance when running on CPU, in particular Intel® Xeon processors (HSW, BDW, Xeon Phi)
+
 
 ## Building
 Build procedure is the same as on bvlc-caffe-master branch, see section "Caffe". Both Make and CMake can be used.
